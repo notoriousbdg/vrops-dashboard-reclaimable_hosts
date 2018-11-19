@@ -1,5 +1,5 @@
 
-# Reclaimable Hosts for vRealize Operations 7.0
+# Reclaimable Hosts Dashboard for vRealize Operations 7.0
 ---------
 
 Use this [vRealize Operations](https://www.vmware.com/products/vrealize-operations.html) dashboard to identify clusters with reclaimable hosts and the potential cost savings by reclaiming the hosts.
