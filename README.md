@@ -1,5 +1,5 @@
 
-# Reclaimable Hosts Dashboard for vRealize Operations 7.0
+# Reclaimable Hosts Dashboard for vRealize Operations 7.0 and 7.5
 ---------
 
 Use this [vRealize Operations](https://www.vmware.com/products/vrealize-operations.html) dashboard to identify clusters with reclaimable hosts and the potential cost savings by reclaiming the hosts.
@@ -26,6 +26,6 @@ Use this [vRealize Operations](https://www.vmware.com/products/vrealize-operatio
 
 ## Support
 
-This dashboard requires vRealize Operation 7.0 (or newer) Advanced or Enterprise edition.
+This dashboard requires vRealize Operation 7.0 or 7.5 Advanced or Enterprise edition.
 
 Please open an [issue](https://github.com/notoriousbdg/vrops-dashboard-reclaimable_hosts/issues) for feedback.
